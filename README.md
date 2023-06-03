@@ -1,4 +1,5 @@
-![ajasfy](https://github.com/ajaykumaryadav17/ajaykumaryadav17/assets/135433469/9d9ecdc7-ca0e-4236-9650-171e5f31783d)
+![which-development-job-is-right-for-you](https://github.com/ajaykumaryadav17/ajaykumaryadav17/assets/135433469/f24f3341-589a-4bff-a927-edd2b6c2c69a)
+
 
 - 👋 Hi, I’m @ajaykumaryadav17
 - 👀 I’m interested in ...
