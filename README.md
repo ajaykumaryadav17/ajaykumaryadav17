@@ -1,15 +1,15 @@
 ![12ds](https://github.com/ajaykumaryadav17/ajaykumaryadav17/assets/135433469/bc59862a-da9f-457e-8c00-702d4b94dc13)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Yadav</h1>
-<h3 align="center">An enthusiastic Student from India.</h3>
+<h3 align="center">Passionate about tech, curious about everything.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
-- 🔭 I’m currently working on **Blockchain/Web 3.0**
+- 🔭 I’m currently working on **Netflix Data Cleaning,Analysis & Visualization**
 
-- 🌱 I’m currently learning **Python,HTML,CSS.**
+- 🌱 I’m currently learning **Python,HTML,CSS,Data Analyst,Sql,Tableau,Power BI.**
 
-- 👯 I’m looking to collaborate on **Python based projects.**
+- 👯 I’m looking to collaborate on **Data Analyst and Python based projects.**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,Data Analyst,Sql**
 
 - 📫 How to reach me **ajaykryadav7355@gmail.com**
 
